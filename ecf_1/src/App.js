@@ -8,9 +8,11 @@ import Sinscrire from './Components/Sinscrire/Sinscrire'
 import Seconnecter from './Components/Seconnecter/Seconnecter'
 import Navbar from './Components/Navbar/Navbar'
 
+
 function App() {
   return (
     <div className="App">
+     
       <Navbar/>
      <Routes>
        <Route path="/" element={<Acceuil />} />
