@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500;700&display=swap');
+
+
+
 .App {
   text-align: center;
 }
@@ -9,20 +13,14 @@
 
 
 h1{
+  font-family: Ubuntu;
   margin-top:5%;
 }
-
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a, .container{ 
+  font-family: Ubuntu;
 }
+
+
 
 .App-link {
   color: #61dafb;
@@ -38,4 +36,10 @@ h1{
 .img-Acceuil{
   width: 100%;
   margin-top: 2%;
+}
+.Acceuil_1{
+  margin-top: 7%;
+}
+.Acceuil_2{
+  margin-top: 10%;
 }
