@@ -12,7 +12,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/biarritz.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Biarritz</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -23,7 +23,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/chamonix-mont-blanc.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Chamonix</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -34,7 +34,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/lille_home.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Lille</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
       </div>
     </div>
@@ -44,7 +44,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/Nice.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Nice</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -55,7 +55,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/Marseille.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Marseille</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -66,7 +66,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/Plouescat.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Plouescat</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>
@@ -76,7 +76,7 @@ export default function Reservation() {
     <div className="card">
       <img src="/images/Strasbourg.jpg" class="card-img-top" alt="..."/>
       <div className="card-body">
-        <h5 className="card-title">Card title</h5>
+        <h5 className="card-title">Strasbourg</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
     </div>

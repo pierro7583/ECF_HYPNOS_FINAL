@@ -43,3 +43,9 @@ a, .container{
 .Acceuil_2{
   margin-top: 10%;
 }
+
+.card-img-top{
+  width: 80%;
+  align-items: center;
+  margin: auto;
+}
