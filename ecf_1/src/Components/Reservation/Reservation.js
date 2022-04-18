@@ -4,7 +4,7 @@ export default function Reservation() {
   return (
     <div>
 
-        <h1>Reservation</h1>
+        <h1>Réservation</h1>
 
                           {/* CARD Biarritz */}
         <div className="row row-cols-1 row-cols-md-2 g-4">
@@ -102,9 +102,6 @@ export default function Reservation() {
     </div>
   </div>
 </div>
-
-
-
 
     </div>
   )

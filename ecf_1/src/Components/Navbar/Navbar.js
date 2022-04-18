@@ -37,7 +37,7 @@ export default function Navbar() {
 {/* Reservation  */}
       <Link to='/Reservation'>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page">Reservation</a>
+          <a className="nav-link active" aria-current="page">Réservation</a>
         </li>
         </Link>
 {/* Nous Contacter */}
