@@ -18,7 +18,7 @@ export default function Nouscontacter() {
 </div>
 
         <div class="mb-3 box">
-  <label for="exampleFormControlInput1" class="form-label">Email address</label>
+  <label for="exampleFormControlInput1" class="form-label">Adresse email</label>
   <input type="email" class="form-control" id="Input_Email" placeholder="name@example.com"/>
 </div>
 <div class="mb-3 box">
@@ -26,7 +26,7 @@ export default function Nouscontacter() {
   <textarea class="form-control" id="Input_Text" rows="3"></textarea>
 </div>
 
-<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-primary">Envoyé</button>
 
 
     </div>

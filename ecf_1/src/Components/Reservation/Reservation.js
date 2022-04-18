@@ -1,8 +1,24 @@
-import React from 'react'
+import React , {useState} from 'react'
+import Modal from "./Modal";
+import "./Modal.css";
 
 export default function Reservation() {
+  const [modalOpen, setModalOpen] = useState(false);
+
   return (
+
+
+
+
+
+
+    
     <div>
+
+
+
+
+      
 
         <h1>Réservation</h1>
 
@@ -15,7 +31,8 @@ export default function Reservation() {
         <h5 className="card-title">Biarritz</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
-      <button type="button" class="btn btn-primary">Réserver</button>
+      <button type="button" class="btn btn-primary openModalBtn" onClick={() => {setModalOpen(true); }}>Réserver</button>
+      {modalOpen && <Modal setOpenModal={setModalOpen} />}
     </div>
     
   </div>
@@ -28,7 +45,7 @@ export default function Reservation() {
         <h5 className="card-title">Chamonix</h5>
         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
-      <button type="button" class="btn btn-primary">Réserver</button>
+      <button type="button" class="btn btn-primary" >Réserver</button>
     </div>
 
   </div>
@@ -106,3 +123,4 @@ export default function Reservation() {
     </div>
   )
 }
+
