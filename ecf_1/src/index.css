@@ -33,14 +33,7 @@ code {
   align-items: center;
 }
 
-.input-container .react-datepicker-wrapper {
-  margin: 12px 0;
-  width: 100%;
-}
 
-.input-container .react-datepicker-wrapper input {
-  padding: 4px 12px;
-}
 
 .summary {
   font-size: 18px;
